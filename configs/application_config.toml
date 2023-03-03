@@ -1,0 +1,9 @@
+server_port = ":8092"
+allowed_sources = ["http://localhost:3000"]
+
+[database]
+host = "192.168.1.73"
+port = "5432"
+username = "developer"
+db_name = "applications"
+password = "123456"
